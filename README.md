@@ -6,7 +6,7 @@ Escanea una carpeta de logs en Windows, muestra cuánto ocupa cada tipo de fiche
 
 ## ¿Por qué lo elegimos?
 
-En las FCT los servidores acumulaban gigas de logs que nadie limpiaba porque era un rollo hacerlo a mano. Este script lo automatiza y además te deja elegir, no borra a lo loco.
+Muchas veces, los servidores almacenan muchos gigas de logs, que nadie revisa. Este script automatiza su borrado y además te permite introducir parametros para elegir qué borrar.
 
 ## Cómo se usa
 
